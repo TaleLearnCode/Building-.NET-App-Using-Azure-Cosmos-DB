@@ -1,1 +1,1 @@
-# Building-.NET-App-Using-Azure-Cosmos-DB
+# Building a .NET Application Using Azurev Cosmos DB
